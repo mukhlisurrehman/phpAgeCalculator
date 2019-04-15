@@ -20,8 +20,6 @@
             margin: 0 auto;
             width: 270px;
 
-             background-image: url(https://pastpapersforvu.000webhostapp.com/images/age-png-5.png);
-
         }
          
 
