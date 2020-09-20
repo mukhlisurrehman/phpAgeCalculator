@@ -45,8 +45,8 @@
         <div class="withinform"><br>
             <h1 align="center">Age Calculator</h1>
             <h3>Enter Your Date Of Birth</h3>
-            <input type="date" name="date" align="center" id="date"><br>
-            <input type="submit" name="age" value="Calculate Age" id="button">
+            <input type="date" name="date" align="center" id="date"/><br>
+            <input type="submit" name="age" value="Calculate Age" id="button"/>
         </div>
     </form>
 </div>
